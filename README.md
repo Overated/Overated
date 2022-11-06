@@ -19,10 +19,14 @@ Currently i'm learning 👨‍💻
 
 ## 📅 **Planing to Learn soon;** 🚧
 ---
-<a href="https://www.javascript.com/" title="JavaScript"><img src="icons/drupal.png" /></a>
-HTML, 
-CSS, 
-Bootsrap and 
+<a href="https://www.javascript.com/" title="JavaScript">
+<img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/javascript1.png" /></a>
+<a href="https://tr.wikipedia.org/wiki/HTML5" title="HTML">
+<img width='15%' src="https://raw.githubusercontent.com/Overated/Fae/8e745c7d17e5aa1fb89c65f2ec85ebfbfa98bcb2/images/Icons/w3_html5-ar21.svg" /></a>
+<a href="https://getbootstrap.com/" title="Bootsrap">
+<img width='14%' src="https://raw.githubusercontent.com/Overated/Fae/8e745c7d17e5aa1fb89c65f2ec85ebfbfa98bcb2/images/Icons/w3_css-ar21.svg" /></a>
+
+ and 
 Python.
 
 
