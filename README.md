@@ -55,7 +55,7 @@ Currently i'm learning 👨‍💻
 ## 🔗**Link for some Languages & Tools** 🔗
 ---
 <div width="100%" align="center">
-    <a href="https://code.visualstudio.com/" title="Photoshop">
+    <a href="https://www.adobe.com/tr/products/photoshop.html" title="Photoshop">
     <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/Adobe_Photoshop_CS6_icon.png" /></a>
     <a href="https://code.visualstudio.com/" title="VS Code">
     <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
