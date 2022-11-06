@@ -72,9 +72,9 @@ Currently i'm learning 👨‍💻
     <a href="https://github.com/" title="Github">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/gitlab-ar21.svg" /></a>
     <a href="https://reactjs.org/" title="React">
-    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/reactjs.png" /></a>
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/react.png" /></a>
     <a href="https://www.swift.org/" title="Swift">
-    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/swift-ar21.svg" /></a>
+    <img height='53' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/swift-1024x576.png" /></a>
     <a href="https://kotlinlang.org/" title="Kotlin">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/kotlinlang-ar21.svg" /></a>
     <a href="https://flutter.dev/" title="Flutter">
@@ -93,7 +93,7 @@ Currently i'm learning 👨‍💻
     <a href="https://nodejs.org/en/" title="Node.js">
     <img height='90' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/nodejs-ar21.svg" /></a>
     <a href="https://tr.wikipedia.org/wiki/C%2B%2B" title="C++">
-    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/C%2B%2B.svg" /></a>
+    <img height='55' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/C%2B%2B.svg" /></a>
     <a href="https://expressjs.com/" title="Express.js">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/a0e466fee4f932361f54f26a54ca63130b35ae96/images/Icons/expressjs-ar21.svg" /></a>
 </div>
