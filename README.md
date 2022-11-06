@@ -1,6 +1,10 @@
 # **Hi, I'm Atakan Ertek, a New Programmer 🚀 from Turkey.**
 
-![github]() ![linked-in]() ![gmail]() ![hackerrank]() ![twitter]()
+[![github][def2]](https://github.com/Overated) 
+![linked-in](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg)(https://www.linkedin.com/in/atakan-ertek-4a728550/)
+![gmail](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg) 
+![hackerrank]() 
+![twitter](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg)
 
 ----
 
@@ -21,7 +25,14 @@
 
 
 ## 🔗**Link for some Languages & Tools** 🔗
+---
 
-Buy me Coffee
+
+![Buy me Coffee](https://raw.githubusercontent.com/Overated/Fae/master/images/buymecoffee.png)
 
 
+
+
+
+[def]: https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg
+[def2]: https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg
