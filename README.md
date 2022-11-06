@@ -70,9 +70,9 @@ Currently i'm learning 👨‍💻
     <a href="https://about.gitlab.com/" title="GitLab">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/gitlab-ar21.svg" /></a>
     <a href="https://github.com/" title="Github">
-    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/gitlab-ar21.svg" /></a>
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/4b4b0312f487178ef4780aff7d5861e676bd610d/images/Icons/github-ar21.svg" /></a>
     <a href="https://reactjs.org/" title="React">
-    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/react.png" /></a>
+    <img height='60' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/react.png" /></a>
     <a href="https://www.swift.org/" title="Swift">
     <img height='53' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/swift-1024x576.png" /></a>
     <a href="https://kotlinlang.org/" title="Kotlin">
