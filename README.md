@@ -3,7 +3,7 @@
 [![github](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg)](https://github.com/Overated) 
 [![linked-in](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg)](https://www.linkedin.com/in/atakan-ertek-4a728550/)
 [![gmail](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg)](mailto:faertek123@gmail.com) 
-[![instagram](https://raw.githubusercontent.com/Overated/Fae/master/images/HackerRank.png)](https://www.instagram.com/atakannnnnn/)
+[![instagram](https://raw.githubusercontent.com/Overated/Fae/b4b83a4df5cbda212591bc3088bcb7d1147344ba/images/instagram.svg)](https://www.instagram.com/atakannnnnn/)
 [![twitter](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg)](https://twitter.com/atakanertek3)
 
 
