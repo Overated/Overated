@@ -7,59 +7,62 @@
 [![twitter](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg)](https://twitter.com/atakanertek3)
 
 ----
+<br/>
 
 * ✍️ I'm currently learning JavaScrip for Frontend Web Development
 * 🎓 Fun-Fact: I have a degree in Industrial engineering and MBA master;
 * 💬 Ask me about anything, I am always happy to help;
 * 📧 Reach me any platform;
+<br/>
 
 ## 📚 **Languages;** 💻
 ---
 Currently i'm learning 👨‍💻
-
+<br/>
 ## 📅 **Planing to Learn soon;** 🚧
 ---
-<a href="https://www.javascript.com/" title="JavaScript">
-<img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/javascript1.png" /></a>
-<a href="https://tr.wikipedia.org/wiki/HTML5" title="HTML">
-<img width='15%' src="https://raw.githubusercontent.com/Overated/Fae/8e745c7d17e5aa1fb89c65f2ec85ebfbfa98bcb2/images/Icons/w3_html5-ar21.svg" /></a>
-<a href="https://getbootstrap.com/" title="Bootsrap">
-<img width='14%' src="https://raw.githubusercontent.com/Overated/Fae/8e745c7d17e5aa1fb89c65f2ec85ebfbfa98bcb2/images/Icons/w3_css-ar21.svg" /></a>
-
- and 
-Python.
-
+<br/>
+<p align="center">
+    <a href="https://www.javascript.com/" title="JavaScript">
+    <img height='75' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/javascript1.png" /></a>
+    <a href="https://tr.wikipedia.org/wiki/HTML5" title="HTML">
+    <img height='75' src="https://raw.githubusercontent.com/Overated/Fae/8e745c7d17e5aa1fb89c65f2ec85ebfbfa98bcb2/images/Icons/w3_html5-ar21.svg" /></a>
+    <a href="https://getbootstrap.com/" title="Bootsrap">
+    <img height='75' src="https://raw.githubusercontent.com/Overated/Fae/88330e7e17df7253854fed515587ba74651d1373/images/Icons/getbootstrap-ar21.svg" /></a>
+    <a href="https://www.python.org/" title="Python">
+    <img height='85' src="https://raw.githubusercontent.com/Overated/Fae/88330e7e17df7253854fed515587ba74651d1373/images/Icons/python-ar21.svg" /></a>
+</p>
+<br/>
 
 ## 💼 **Some of my project** 📌
 ---
-<p align="center">
-    <a href="https://github.com/Overated/kodluyoruzilkrepo">
-    <img width='42%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=overated&repo=kodluyoruzilkrepo&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/Overated/Insertion-Sort-Projesi">
-    <img width='49%'align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=overated&repo=Insertion-Sort-Projesi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</p>
+<div width="100%" align="center">
+     <a align="left" href="https://github.com/Overated/kodluyoruzilkrepo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=kodluyoruzilkrepo&theme=react&border_color=61dafb&border_radius=20" /></a>
+     <a align="right" href="https://github.com/Overated/Insertion-Sort-Projesi" title="Insertion-Sort-Projesi">
+     <img align="right" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Insertion-Sort-Projesi&theme=react&border_color=61dafb&border_radius=20"></a>
+</div>
+<br/><br/><br/><br/><br/><br/><br/>
 
-<p align="center">
-    <a href="https://github.com/Overated/Binary-Search-Tree-Projesi">
-    <img width='44%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Binary-Search-Tree-Projesi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/Overated/Merge-Sort-Projesi">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Merge-Sort-Projesi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-    </a>
-</p>
-
+<div width="100%" align="center">
+    <a align="left" href="https://github.com/Overated/kodluyoruzilkrepo"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Binary-Search-Tree-Projesi&theme=react&border_color=61dafb&border_radius=20" /></a>
+    <a align="right" href="https://github.com/Overated/Insertion-Sort-Projesi" title="Insertion-Sort-Projesi">
+    <img align="right" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Merge-Sort-Projesi&theme=react&border_color=61dafb&border_radius=20"></a>
+</div>
+<br/><br/><br/><br/><br/><br/><br/>
 
 ## 🔗**Link for some Languages & Tools** 🔗
 ---
-Photoshop, 
-VS Code,
-C#,
-Java,
-Delphi,
+<div width="100%" align="center">
+    Photoshop 
+    <a href="https://code.visualstudio.com/" title="VS Code">
+    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
+    <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="C#">
+    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
+    <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="Java">
+    <img height='40' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
+    <a href="https://www.embarcadero.com/products/delphi" title="Delphi">
+    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
+
 Git, 
 GitLab, 
 Github,
@@ -81,7 +84,7 @@ Ruby
 Node.js
 C++, 
 Express.js, ?????
-
+</div>
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
