@@ -16,9 +16,9 @@
 <br/>
 
 ## 📚 **Languages;** 💻
----
 Currently i'm learning 👨‍💻
 <br/>
+
 ## 📅 **Planing to Learn soon;** 🚧
 ---
 <br/>
@@ -46,7 +46,7 @@ Currently i'm learning 👨‍💻
 <br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/Overated/kodluyoruzilkrepo"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Binary-Search-Tree-Projesi&theme=react&border_color=61dafb&border_radius=20" /></a>
+    <a align="left" href="https://github.com/Overated/Binary-Search-Tree-Projesi"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Binary-Search-Tree-Projesi&theme=react&border_color=61dafb&border_radius=20" /></a>
     <a align="right" href="https://github.com/Overated/Insertion-Sort-Projesi" title="Insertion-Sort-Projesi">
     <img align="right" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Merge-Sort-Projesi&theme=react&border_color=61dafb&border_radius=20"></a>
 </div>
@@ -90,18 +90,21 @@ Currently i'm learning 👨‍💻
     <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" title="Xamarin"><img height='140' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/xamarin-original-wordmark.svg" /></a>
     <a href="https://www.ruby-lang.org/en/" title="Ruby">
     <img height='80' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/ruby-lang-ar21.svg" /></a>  
-
-
-Node.js
-C++, 
-Express.js, ?????
+    <a href="https://nodejs.org/en/" title="Node.js">
+    <img height='90' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/nodejs-ar21.svg" /></a>
+    <a href="https://tr.wikipedia.org/wiki/C%2B%2B" title="C++">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/C%2B%2B.svg" /></a>
+    <a href="https://expressjs.com/" title="Express.js">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/a0e466fee4f932361f54f26a54ca63130b35ae96/images/Icons/expressjs-ar21.svg" /></a>
 </div>
+<br/>
+
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-
-<p align="center">
+<div width="100%" align="center">
+    <p align="center">
     <img alt="ViewCount" src=https://visitor-badge.glitch.me/badge?page_id=Overated&left_color=grey&right_color=green />
 </p>
 
@@ -111,7 +114,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
     </a>
 </p>
 
+<br/>
 
+</div>
+
+<div width="100%" align="center">
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
@@ -120,3 +127,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
     
 </p>
 </details>
+</div>
