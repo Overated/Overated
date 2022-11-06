@@ -1,10 +1,15 @@
 # **Hi, I'm Atakan Ertek, a New Programmer 🚀 from Turkey.**
 
-[![github][def2]](https://github.com/Overated) 
-![linked-in](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg)(https://www.linkedin.com/in/atakan-ertek-4a728550/)
-![gmail](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg) 
-![hackerrank]() 
-![twitter](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg)
+[![github](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg)](https://github.com/Overated) 
+[![linked-in](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg)](https://www.linkedin.com/in/atakan-ertek-4a728550/)
+[![gmail](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg)](mailto:faertek123@gmail.com) 
+[![instagram](https://raw.githubusercontent.com/Overated/Fae/master/images/HackerRank.png)](https://www.instagram.com/atakannnnnn/)
+[![twitter](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg)](https://twitter.com/atakanertek3)
+
+
+
+
+
 
 ----
 
@@ -28,11 +33,19 @@
 ---
 
 
-![Buy me Coffee](https://raw.githubusercontent.com/Overated/Fae/master/images/buymecoffee.png)
 
 
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
 
+<p align="center">
+    <img alt="ViewCount" src=https://visitor-badge.glitch.me/badge?page_id=Overated&left_color=grey&right_color=green />
+</p>
 
-
-[def]: https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg
-[def2]: https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg
+<p align="center">
+    <a href="https://www.buymeacoffee.com/faertek1236" target="_blank">
+      <img width="30%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/Overated/Fae/master/images/buymecoffee.png"/>
+    </a>
+</p>
