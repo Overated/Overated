@@ -27,6 +27,8 @@ Currently i'm learning 👨‍💻
     <img height='75' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/javascript1.png" /></a>
     <a href="https://tr.wikipedia.org/wiki/HTML5" title="HTML">
     <img height='75' src="https://raw.githubusercontent.com/Overated/Fae/8e745c7d17e5aa1fb89c65f2ec85ebfbfa98bcb2/images/Icons/w3_html5-ar21.svg" /></a>
+    <a href="https://tr.wikipedia.org/wiki/CSS" title="CSS">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/w3_css-ar21.svg" /></a>
     <a href="https://getbootstrap.com/" title="Bootsrap">
     <img height='75' src="https://raw.githubusercontent.com/Overated/Fae/88330e7e17df7253854fed515587ba74651d1373/images/Icons/getbootstrap-ar21.svg" /></a>
     <a href="https://www.python.org/" title="Python">
@@ -53,34 +55,43 @@ Currently i'm learning 👨‍💻
 ## 🔗**Link for some Languages & Tools** 🔗
 ---
 <div width="100%" align="center">
-    Photoshop 
+    <a href="https://code.visualstudio.com/" title="Photoshop">
+    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/Adobe_Photoshop_CS6_icon.png" /></a>
     <a href="https://code.visualstudio.com/" title="VS Code">
     <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
     <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="C#">
-    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
-    <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="Java">
-    <img height='40' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
+    <img width='6%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/c-sharp-c-icon-456x512-9sej0lrz.png" /></a>
     <a href="https://www.embarcadero.com/products/delphi" title="Delphi">
-    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/VS%20Code.png" /></a>
+    <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/Delphi_Language_Logo.png" /></a>
+    <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="Java">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/1066a62c36a067b8e39da6d737f8c8bf4f4166ed/images/Icons/java-ar21.svg" /></a>
+    <a href="https://git-scm.com/" title="Git">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/git-scm-ar21.svg" /></a>
+    <a href="https://about.gitlab.com/" title="GitLab">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/gitlab-ar21.svg" /></a>
+    <a href="https://github.com/" title="Github">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/gitlab-ar21.svg" /></a>
+    <a href="https://reactjs.org/" title="React">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/reactjs.png" /></a>
+    <a href="https://www.swift.org/" title="Swift">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/swift-ar21.svg" /></a>
+    <a href="https://kotlinlang.org/" title="Kotlin">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/kotlinlang-ar21.svg" /></a>
+    <a href="https://flutter.dev/" title="Flutter">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/flutterio-ar21.svg" /></a>
+    <a href="https://reactnative.dev/" title="React Native">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/reactjs-ar21.svg" /></a>
+    <a href="https://vue-native.io/" title="Vue Native">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/vuejs-ar21.svg" /></a>
+    <a href="https://ionicframework.com/" title="Ionic">
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/ionicframework-ar21.svg" /></a>
+    <a href="https://go.dev/" title="Go">
+    <img height='100' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/golang-ar21.svg" /></a>   
+    <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" title="Xamarin"><img height='140' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/xamarin-original-wordmark.svg" /></a>
+    <a href="https://www.ruby-lang.org/en/" title="Ruby">
+    <img height='80' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/ruby-lang-ar21.svg" /></a>  
 
-Git, 
-GitLab, 
-Github,
-React, ????
-Swift,
-Java, 
-Kotlin, 
-Flutter, 
-React Native, 
-Vue Native, 
-Ionic, 
-Xamarin,
-HTML
-CSS
-JavaScript
-Python
-Go
-Ruby
+
 Node.js
 C++, 
 Express.js, ?????
