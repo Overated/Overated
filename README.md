@@ -22,6 +22,6 @@
 
 ## 🔗**Link for some Languages & Tools** 🔗
 
-Buy me Coffe
+Buy me Coffee
 
 
