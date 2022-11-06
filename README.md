@@ -4,22 +4,24 @@
 
 ----
 
-* I'm currently learning Javascrip for Front-End Developer
-* Fun-Fact: I have a degree in Industrial engineering and MBA master;
-* Ask me about anything, I am always happy to help;
-* Reach me any platform;
+* ✍️ I'm currently learning Javascrip for Front-End Developer
+* 🎓 Fun-Fact: I have a degree in Industrial engineering and MBA master;
+* 💬 Ask me about anything, I am always happy to help;
+* 📧 Reach me any platform;
 
-## **Languages;**
+## 📚 **Languages;** 💻
 ---
 
 
-## **Planing to Learn soon;**
+## 📅 **Planing to Learn soon;** 🚧
 ---
 
-## **Some of my project**
+## 💼 **Some of my project** 📌
 ---
 
 
+## 🔗**Link for some Languages & Tools** 🔗
 
+Buy me Coffe
 
 
