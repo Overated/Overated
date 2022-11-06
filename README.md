@@ -66,7 +66,7 @@ Currently i'm learning 👨‍💻
     <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="Java">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/1066a62c36a067b8e39da6d737f8c8bf4f4166ed/images/Icons/java-ar21.svg" /></a>
     <a href="https://git-scm.com/" title="Git">
-    <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/git-scm-ar21.svg" /></a>
+    <img height='70' src="https://raw.githubusercontent.com/Overated/Overated/master/images/Icons/git-logo.png" /></a>
     <a href="https://about.gitlab.com/" title="GitLab">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/8425aa7184fc8516ac2fdba5430757eb44cd532d/images/Icons/gitlab-ar21.svg" /></a>
     <a href="https://github.com/" title="Github">
