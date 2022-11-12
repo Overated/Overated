@@ -6,7 +6,7 @@
 <a href="mailto:faertek123@gmail.com" title="gmail"><img height="20" width="60" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg" />
 <a href="https://www.instagram.com/atakannnnnn/" title="instagram"><img height="20" width="75" src="https://raw.githubusercontent.com/Overated/Fae/b4b83a4df5cbda212591bc3088bcb7d1147344ba/images/instagram.svg" />
 <a href="https://twitter.com/atakanertek3" title="twitter"><img height="20" width="75" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg" />
-<a href="https://www.hackerrank.com/Overated" title="Hackerank"><img height="22" width="75" src="https://raw.githubusercontent.com/Overated/Overated/master/images/hackerrank.png" />
+<a href="https://www.hackerrank.com/Overated" title="Hackerank"><img height="22" width="95" src="https://raw.githubusercontent.com/Overated/Overated/master/images/hackerrank.png" />
 </p>
 
 ----
