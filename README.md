@@ -50,7 +50,7 @@ Currently i'm learning 👨‍💻
 
 <div width="100%" align="center">
     <a align="left" href="https://github.com/Overated/Binary-Search-Tree-Projesi"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Binary-Search-Tree-Projesi&theme=react&border_color=61dafb&border_radius=20" /></a>
-    <a align="right" href="https://github.com/Overated/Insertion-Sort-Projesi" title="Insertion-Sort-Projesi">
+    <a align="right" href="https://github.com/Overated/Merge-Sort-Projesi" title="Insertion-Sort-Projesi">
     <img align="right" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Merge-Sort-Projesi&theme=react&border_color=61dafb&border_radius=20"></a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/>
