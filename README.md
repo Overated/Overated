@@ -1,21 +1,13 @@
 ## **Hi, I'm Atakan Ertek, a New Programmer 🚀 from Turkey.**
 ---
-[![github](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg)](https://github.com/Overated) 
-[![linked-in](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg)](https://www.linkedin.com/in/atakan-ertek/)
-[![gmail](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg)](mailto:faertek123@gmail.com) 
-[![instagram](https://raw.githubusercontent.com/Overated/Fae/b4b83a4df5cbda212591bc3088bcb7d1147344ba/images/instagram.svg)](https://www.instagram.com/atakannnnnn/)
-[![twitter](https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg)](https://twitter.com/atakanertek3)
-[![Hackerank](https://raw.githubusercontent.com/Overated/Overated/master/images/hackerrank.png)](https://www.hackerrank.com/Overated)
-
-----
 <p align="center">
-<a href="https://github.com/Overated" title="github"><img height="19" width="65" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg" />
-<a href="https://www.linkedin.com/in/atakan-ertek/" title="linked-in"><img height="19" width="65" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg" />
-<a href="mailto:faertek123@gmail.com" title="gmail"><img height="19" width="60" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg" />
-<a href="https://www.instagram.com/atakannnnnn/" title="instagram"><img height="19" width="75" src="https://raw.githubusercontent.com/Overated/Fae/b4b83a4df5cbda212591bc3088bcb7d1147344ba/images/instagram.svg" />
-<a href="https://twitter.com/atakanertek3" title="twitter"><img height="19" width="75" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg" />
-<a href="https://www.hackerrank.com/Overated" title="Hackerank"><img height="20" width="75" src="https://raw.githubusercontent.com/Overated/Overated/9efb24616fd04ab5eafdfd626f3ad7fef93ce277/images/hackerrank_button_icon_151894.svg" />
-
+<a href="https://github.com/Overated" title="github"><img height="20" width="65" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Github-000.svg" />
+<a href="https://www.linkedin.com/in/atakan-ertek/" title="linked-in"><img height="20" width="65" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-LinkedIn-blue.svg" />
+<a href="mailto:faertek123@gmail.com" title="gmail"><img height="20" width="60" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Gmail-c14438.svg" />
+<a href="https://www.instagram.com/atakannnnnn/" title="instagram"><img height="20" width="75" src="https://raw.githubusercontent.com/Overated/Fae/b4b83a4df5cbda212591bc3088bcb7d1147344ba/images/instagram.svg" />
+<a href="https://twitter.com/atakanertek3" title="twitter"><img height="20" width="75" src="https://raw.githubusercontent.com/Overated/Fae/49bb58fa24d5550307de9ec7116c7502023524fc/images/-Twitter-blue.svg" />
+<a href="https://www.hackerrank.com/Overated" title="Hackerank"><img height="22" width="75" src="https://raw.githubusercontent.com/Overated/Overated/master/images/hackerrank.png" />
+</p>
 
 ----
 <br/>
