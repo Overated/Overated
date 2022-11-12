@@ -66,7 +66,7 @@ Currently i'm learning 👨‍💻
     <img width='6%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/c-sharp-c-icon-456x512-9sej0lrz.png" /></a>
     <a href="https://www.embarcadero.com/products/delphi" title="Delphi">
     <img width='7%' src="https://raw.githubusercontent.com/Overated/Fae/master/images/Icons/Delphi_Language_Logo.png" /></a>
-    <a href="https://tr.wikipedia.org/wiki/C_Sharp" title="Java">
+    <a href="https://dev.java/" title="Java">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Fae/1066a62c36a067b8e39da6d737f8c8bf4f4166ed/images/Icons/java-ar21.svg" /></a>
     <a href="https://git-scm.com/" title="Git">
     <img height='70' src="https://raw.githubusercontent.com/Overated/Overated/master/images/Icons/git-logo.png" /></a>
